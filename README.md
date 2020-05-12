@@ -7,3 +7,4 @@ These are some small cool & Awesome Python Programs
 
 3.Password Generator
 
+4.Chrome Dino Game Automation 
