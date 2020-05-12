@@ -1,10 +1,7 @@
-from PIL import Image, ImageGrab
-import pyautogui
+from PIL import Image, ImageGrab #pip install pillow
+import pyautogui #pip install pyautogui
 from time import sleep
-from numpy import asarray
-
-# def draw():
-
+from numpy import asarray #pip install numpy
 
 
 def crash(data):
@@ -20,13 +17,6 @@ def crash(data):
                 pyautogui.keyDown('up')
                 return True
     return False
-
-# def bird(data):
-#     for i in range(300,415):
-#         for j in range(400,450):
-#             if data[i, j] < 100:
-#     return False
-#                 return True
 
 
 if __name__ == "__main__":
