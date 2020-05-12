@@ -1,4 +1,4 @@
-import pyautogui
+import pyautogui #pip install pyautogui
 import time
 
 while True:
