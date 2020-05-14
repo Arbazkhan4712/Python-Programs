@@ -11,3 +11,8 @@ These are some small cool & Awesome Python Programs
 3.Password Generator
 
 4.Chrome Dino Game Automation 
+
+## License & Copyright
+© [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
+
+Licensed under the [MIT License](License)
