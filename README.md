@@ -14,6 +14,9 @@ These are some small cool & Awesome Python Programs
 
 5.File Organizer
 
+6.File Compare
+
+
 ## License & Copyright
 © [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
 
