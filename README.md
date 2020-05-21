@@ -16,6 +16,10 @@ These are some small cool & Awesome Python Programs
 
 6.File Compare
 
+7.Speech To Text
+
+8.Text To Speech
+
 
 ## License & Copyright
 © [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
