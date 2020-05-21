@@ -20,6 +20,7 @@ These are some small cool & Awesome Python Programs
 
 8.Text To Speech
 
+9.Image To Text
 
 ## License & Copyright
 © [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
