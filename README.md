@@ -22,6 +22,7 @@ These are some small cool & Awesome Python Programs
 
 9.Image To Text
 
+10.Face and Eyes Detection With Haar Cascade
 ## License & Copyright
 © [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
 
